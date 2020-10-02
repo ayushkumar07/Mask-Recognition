@@ -7,7 +7,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/lakshay-dabas/Mask-Recognition/blob/main/Readme_images/Demo.gif)
+![Live Demo]https://github.com/lakshay-dabas/Mask-Recognition/blob/new/Readme_images/Demo.gif)
 
 
 
