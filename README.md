@@ -55,7 +55,7 @@ $ python3 detect_mask_video.py
 
 #### We got the following accuracy/loss training curve plot
 <p align="center">
-  <img src="https://github.com/lakshay-dabas/Mask-Recognition/blob/main/Readme_images/plot.png">
+  <img src="https://github.com/lakshay-dabas/Mask-Recognition/blob/new/Readme_images/plot.png">
 </p>
 ## Streamlit app
 
